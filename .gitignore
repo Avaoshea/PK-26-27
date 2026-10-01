@@ -1,0 +1,15 @@
+# Pliki wykonywalne i wynikowe kompilacji
+*.exe
+*.out
+*.o
+*.obj
+
+# Katalog z plikami wynikowymi
+build/
+
+# Lokalne ustawienia VS Code
+.vscode/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
