@@ -1,0 +1,11 @@
+{
+  "code-runner.executorMap": {
+    "cpp": "mkdir -p \"$workspaceRoot/build\" && g++ \"$fullFileName\" -o \"$workspaceRoot/build/$fileNameWithoutExt.out\" && \"$workspaceRoot/build/$fileNameWithoutExt.out\""
+  },
+
+  "code-runner.runInTerminal": true,
+  "code-runner.showExecutionMessage": false,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.preserveFocus": false
+}
