@@ -7,11 +7,44 @@ Repozytorium ma przede wszystkim ułatwić dostęp do przykładów z zajęć ora
 > **Uwaga:** zadania przeznaczone do samodzielnego wykonania i oddania znajdują się na platformie **UPEL**.  
 > To repozytorium nie zastępuje materiałów ani zadań publikowanych na UPEL-u.
 
+## Jak korzystać z tego repozytorium
+
+Do pracy podczas laboratoriów będziemy korzystać z **GitHub Codespaces**.
+
+Aby móc uruchomić Codespaces, potrzebne jest konto w serwisie **GitHub**.
+
+Jeżeli nie masz jeszcze konta GitHub:
+
+1. wejdź na stronę GitHub,
+2. utwórz bezpłatne konto,
+3. zaloguj się na swoje konto.
+
+Następnie otwórz repozytorium prowadzącego:
+
+    PK-26-27
+
+Na stronie repozytorium:
+
+1. kliknij przycisk **Code**,
+2. przejdź do zakładki **Codespaces**,
+3. kliknij **Create codespace on main**,
+4. poczekaj na uruchomienie środowiska.
+
+Po chwili w przeglądarce otworzy się Visual Studio Code z przygotowanym środowiskiem oraz plikami znajdującymi się w tym repozytorium.
+
+Nie musisz ręcznie pobierać repozytorium ani wpisywać komend `git clone`, `git init` lub `git pull`.
+
+Każdy student pracuje we własnym środowisku Codespaces, dlatego możesz swobodnie modyfikować przykłady i eksperymentować z kodem.
+
+Zmiany wykonywane w Twoim Codespace nie zmieniają repozytorium prowadzącego.
+
+---
+
 ## Struktura repozytorium
 
 Materiały są podzielone według kolejnych laboratoriów:
 
-    cpp-lab/
+    PK-26-27/
     ├── README.md
     ├── lab01/
     │   ├── README.md
@@ -39,6 +72,8 @@ W każdym katalogu `labXX` mogą znajdować się:
 Podczas zajęć będziemy korzystać z **GitHub Codespaces**.
 
 Codespaces udostępnia środowisko programistyczne działające w przeglądarce. Zawiera edytor Visual Studio Code oraz terminal, w którym możemy kompilować i uruchamiać programy.
+
+Po utworzeniu Codespace z tego repozytorium powinieneś zobaczyć wszystkie katalogi i pliki potrzebne podczas zajęć.
 
 ---
 
@@ -205,3 +240,15 @@ Przed rozpoczęciem pracy warto więc sprawdzić plik:
     labXX/README.md
 
 Szczegółowe zadania do wykonania oraz materiały wymagane do zaliczenia laboratoriów znajdują się na **UPEL-u**.
+
+---
+
+## Pytania
+
+Jeżeli masz pytanie dotyczące przykładów z laboratoriów, kodu C++ lub pracy w GitHub Codespaces, skorzystaj z zakładki **Discussions**.
+
+Pytania techniczne zadawaj w kategorii **Q&A**.
+
+Ogłoszenia dotyczące repozytorium będą publikowane w kategorii **Announcements**.
+
+Oficjalne zadania, terminy oraz materiały wymagane do zaliczenia znajdują się na **UPEL-u**.
