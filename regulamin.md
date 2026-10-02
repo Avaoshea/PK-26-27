@@ -1,4 +1,4 @@
-# Regulamin zajęć
+# Regulamin zajęć laboratoryjnych prowadzonych przez K. Smelcerz-Richard
 
 ## 1. Obecność na kolokwiach
 
